@@ -68,5 +68,10 @@ Table #2
 ![Table2](Screenshot%202024-12-07%20at%2002.26.35.png)
 * THis sumarised percentages of gross profit and unit sales by products. The executive summary gives more insight into everything.
 
+## Summary
+* All extra details needed are in the `ayo.pbix` sheet. This includes the data modelling, dimensions & measures creations, everything, reference it for more info if needed
+* The `Reports.pdf` is the report pdf published to my PBI Service
+
+
 ## Licensing
 This project is for personal and educational purposes, feel free to copy/use it
