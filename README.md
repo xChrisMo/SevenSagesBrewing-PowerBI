@@ -26,7 +26,7 @@ The source material for this project can be found under the folder called “Sou
 
 ## Data Model 
 
-![Data Model](Screenshot%202024-12-06%20at%2005.34.30.png)
+![Data Model](Screenshots/Screenshot%202024-12-06%20at%2005.34.30.png)
 
 * Fact Table:
   1. Monthly sales logs
