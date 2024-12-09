@@ -24,3 +24,49 @@ The source material for this project can be found under the folder called “Sou
 
 * USD-CAD Exchange Rates `csv`: CSV file for currency excahnge accross both regions of company operations
 
+## Data Model 
+
+![Data Model](Screenshot%202024-12-06%20at%2005.34.30.png)
+
+* Fact Table:
+  1. Monthly sales logs
+ 
+* Dimension Tables:
+  1. Product offerings
+  2. Customers list
+  3. Date
+  4. USD-CAD Exchange Rates
+
+* Measures:
+  1. Sales USD
+  2. Sales CAD
+  3. Cost of Sales
+  4. Gross Profit Margin
+  5. Unit Sales by Product
+  6. Gross Profit by Product
+ 
+### Date Table Creation
+A dynamic date table that starts at the beginning of the calendar year(`Start`) and ends at the end of the calendar year(`End`) as seen in the model diagram above was created from the Monthly Sales Logs folders(combined into a .xlsx file eventually)
+
+The following extra fields were created:
+
+* Calendar Month Number and Name
+* Calendar Year
+* Fiscal Period
+* Fiscal Year
+* Fiscal Quarter (example: Q2-FY2020)
+(Seven Sages’ Fiscal year begins on October 1st and runs until September 30th. )
+
+
+## Modelling Results
+
+Table #1
+![Table1](Screenshot%202024-12-07%20at%2002.26.14.png)
+* This table summarised the Sales for each Customer type across different quarters of the year.
+
+Table #2
+![Table2](Screenshot%202024-12-07%20at%2002.26.35.png)
+* THis sumarised percentages of gross profit and unit sales by products. The executive summary gives more insight into everything.
+
+## Licensing
+This project is for personal and educational purposes, feel free to copy/use it
