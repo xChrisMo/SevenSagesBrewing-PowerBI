@@ -61,11 +61,11 @@ The following extra fields were created:
 ## Modelling Results
 
 Table #1
-![Table1](Screenshot%202024-12-07%20at%2002.26.14.png)
+![Table1](Screenshots/Screenshot%202024-12-07%20at%2002.26.14.png)
 * This table summarised the Sales for each Customer type across different quarters of the year.
 
 Table #2
-![Table2](Screenshot%202024-12-07%20at%2002.26.35.png)
+![Table2](Screenshots/Screenshot%202024-12-07%20at%2002.26.35.png)
 * THis sumarised percentages of gross profit and unit sales by products. The executive summary gives more insight into everything.
 
 ## Summary
